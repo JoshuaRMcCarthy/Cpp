@@ -1,0 +1,3 @@
+figure out why when you switch 'i' to 'd' in main, why after popping 3 times, 
+for some reason the value 95.1 is in the stack somehow. shouldnt be possible. Why are extra
+values making their way onto the stack where it doesn't show they are being pushed onto it?
